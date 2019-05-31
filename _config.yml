@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WeiChen Dai"
+title                    : "Weichen Dai"
 title_separator          : "-"
-name                     : &name "WeiChen Dai"
+name                     : &name "Weichen Dai"
 description              : &description "PhD Student | Vision Systems"
 url                      : https://weichnn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "WeiChen Dai"
+  name             : "Weichen Dai"
   avatar           : "https://avatars1.githubusercontent.com/u/3090461?s=460&v=4"
   bio              : "PhD Student | Vision Systems"
   location         :  # "Location"
