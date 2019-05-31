@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+## Vision-Based Navigation Systems
+
+<b>[RGB-D SLAM in Dynamic Environments Using Point Correlations](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
+<b>WeiChen Dai/b>, Yu Zhang, Ping Li, Zheng Fang.
+
+
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
