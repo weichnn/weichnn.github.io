@@ -9,12 +9,12 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 ## Vision-Based Navigation Systems
 
-<b>[RGB-D SLAM in Dynamic Environments Using Point Correlations](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
-<b>WeiChen Dai/b>, Yu Zhang, Ping Li, Zheng Fang.
+<b>[RGB-D SLAM in Dynamic Environments Using Point Correlations](http://weichnn.github.io/publications/DSLAM)</b> <br> 
+<b>WeiChen Dai</b>, Yu Zhang, Ping Li, Zheng Fang.
 
 
 <!-- {% for post in site.publications reversed %}
