@@ -86,7 +86,7 @@ author:
   location         :  # "Location"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?hl=en&user=CAAqkAIAAAAJ"
   email            :  weicdai@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCZM43JMHcq64mU0HwRUQ4yg"
   wikipedia        :
 
 
