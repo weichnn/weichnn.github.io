@@ -2,10 +2,10 @@
 title: "RGB-D SLAM in Dynamic Environments Using Point Correlation"
 collection: publications
 permalink: /publication/DSLAM
-date: 2018-11-08
+date: 2020-07-20
 # venue: 'Journal 1'
-paperurl: 'https://arxiv.org/abs/1811.03217'
-citation: 'Weichen Dai, Yu Zhang, Ping Li, Zheng Fang.'
+paperurl: 'https://ieeexplore.ieee.org/document/9145704'
+citation: 'Weichen Dai, Yu Zhang, Ping Li, Zheng Fang, and Sebastian Scherer.'
 ---
 
 [[ArXiv]](https://arxiv.org/abs/1811.03217)
