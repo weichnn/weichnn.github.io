@@ -12,7 +12,7 @@ redirect_from:
 * My research interests include visual navigation, perception and intelligent autonomous systems.
 
 
-### Vision-Based Navigation Systems
+### Vision-Based Localization Systems
 
 ------
 
