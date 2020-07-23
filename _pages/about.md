@@ -16,7 +16,7 @@ redirect_from:
 
 ------
 
-* **[RGB-D SLAM in Dynamic Environments Using Point Correlations](http://weichnn.github.io/publication/DSLAM)**, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), **Weichen Dai**, Yu Zhang, Ping Li, Zheng Fang, and Sebastian Scherer. [[ArXiv]](https://arxiv.org/abs/1811.03217)
+* **[RGB-D SLAM in Dynamic Environments Using Point Correlations](http://weichnn.github.io/publication/DSLAM)**, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), **Weichen Dai**, Yu Zhang, Ping Li, Zheng Fang, and Sebastian Scherer. [[IEEE]](https://ieeexplore.ieee.org/document/9145704) [[ArXiv]](https://arxiv.org/abs/1811.03217)
 
 * **[Multi-Spectral Visual Odometry without Explicit Stereo Matching](http://weichnn.github.io/publication/3DV2019)**, 3DV2019,
-**Weichen Dai**, Yu Zhang, Donglei Sun, Naira Hovakimyan, Ping Li. [[ArXiv]](https://arxiv.org/pdf/1908.08814.pdf)
+**Weichen Dai**, Yu Zhang, Donglei Sun, Naira Hovakimyan, Ping Li. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8885483) [[ArXiv]](https://arxiv.org/pdf/1908.08814.pdf)

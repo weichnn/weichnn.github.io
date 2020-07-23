@@ -5,7 +5,7 @@ permalink: /publication/DSLAM
 date: 2020-07-20
 # venue: 'Journal 1'
 paperurl: 'https://ieeexplore.ieee.org/document/9145704'
-citation: 'Weichen Dai, Yu Zhang, Ping Li, Zheng Fang, and Sebastian Scherer.'
+# citation: 'Weichen Dai, Yu Zhang, Ping Li, Zheng Fang, and Sebastian Scherer.'
 ---
 
 [[ArXiv]](https://arxiv.org/abs/1811.03217)
