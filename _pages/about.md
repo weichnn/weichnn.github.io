@@ -13,8 +13,6 @@ redirect_from:
 
 ## Publication
 
-------
-
 ### Vision-Based Localization Systems
 
 ------
