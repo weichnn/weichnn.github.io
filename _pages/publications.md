@@ -14,12 +14,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 [[Paper]](https://arxiv.org/abs/2007.00622)
 [[HomePage]](https://github.com/NGCLAB/multi-spectral-dataset)
 
-* **"RGB-D SLAM in Dynamic Environments Using Point Correlations]"**, 
+* **"RGB-D SLAM in Dynamic Environments Using Point Correlations"**, 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 
 *Weichen Dai*, Yu Zhang, Ping Li, Zheng Fang, and Sebastian Scherer. 
 [[Paper]](https://ieeexplore.ieee.org/document/9145704)
 
-* **"Multi-Spectral Visual Odometry without Explicit Stereo Matching]"**, 
+* **"Multi-Spectral Visual Odometry without Explicit Stereo Matching"**, 
 International Conference on 3D Vision (3DV2019),
 *Weichen Dai*, Yu Zhang, Donglei Sun, Naira Hovakimyan, Ping Li. 
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8885483)
