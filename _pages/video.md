@@ -13,6 +13,6 @@ You can also find more recent videos on <u><a href="https://www.youtube.com/chan
 
 * Multi-Spectral Visual Odometry without Explicit Stereo Matching
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f5nseyySD2k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RyQc56if-gQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

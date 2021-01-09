@@ -1,7 +1,6 @@
 # main links links
 main:
-  - title: "Publication"
-    url: /publications/
+
 
   # - title: "Talks"
   #   url: /talks/    
@@ -17,6 +16,12 @@ main:
     
   - title: "CV"
     url: /files/CV_en.pdf
+
+  - title: "Publication"
+    url: /publications/
+
+  - title: "Dataset&Software"
+    url: /software/
 
   - title: "Video"
     url: /video/
