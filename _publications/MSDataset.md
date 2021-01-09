@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/MSDataset
 date: 2020-11-01
 # venue: 'Journal 1'
-# paperurl: 'https://ieeexplore.ieee.org/document/9145704'
-# citation: 'Weichen Dai, Yu Zhang, Ping Li, Zheng Fang, and Sebastian Scherer.'
+paperurl: 'https://arxiv.org/abs/2007.00622'
+# citation: 'aaaa'
 ---
 
 ## Abstract
