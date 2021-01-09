@@ -2,7 +2,7 @@
 title: "A Dataset for Evaluating Multi-spectral Motion Estimation Methods"
 collection: publications
 permalink: /publication/MSDataset
-date: 2020-07-1
+date: 2020-11-01
 # venue: 'Journal 1'
 # paperurl: 'https://ieeexplore.ieee.org/document/9145704'
 # citation: 'Weichen Dai, Yu Zhang, Ping Li, Zheng Fang, and Sebastian Scherer.'
