@@ -1,0 +1,371 @@
+{
+  "source": "Google Scholar public author profile",
+  "source_url": "https://scholar.google.com/citations?user=CAAqkAIAAAAJ&hl=en",
+  "profile_id": "CAAqkAIAAAAJ",
+  "profile_name": "Weichen Dai",
+  "affiliation": "Hangzhou Dianzi University",
+  "research_interests": [
+    "3D Vision",
+    "SLAM",
+    "Brain-inspired intelligence"
+  ],
+  "fetched_on": "2026-07-22",
+  "citation_total_at_fetch": 856,
+  "publication_count": 39,
+  "notes": "Per the profile owner's instruction, Google Scholar is the authoritative master source for titles, authors, venues and years. Citation counts are a time-sensitive snapshot.",
+  "publications": [
+    {
+      "scholar_rank": 1,
+      "title": "RGB-D SLAM in Dynamic Environments Using Point Correlations",
+      "authors": "W Dai, Y Zhang, P Li, Z Fang, S Scherer",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020",
+      "year": 2020,
+      "citations": 329,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+      "scholar_rank": 2,
+      "title": "Brain-machine coupled learning method for facial emotion recognition",
+      "authors": "D Liu, W Dai, H Zhang, X Jin, J Cao, W Kong",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence 45 (9), 10703 …, 2023",
+      "year": 2023,
+      "citations": 99,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:5nxA0vEk-isC"
+    },
+    {
+      "scholar_rank": 3,
+      "title": "Dynamically adjust word representations using unaligned multimodal information",
+      "authors": "J Guo, J Tang, W Dai, Y Ding, W Kong",
+      "venue": "Proceedings of the 30th ACM international conference on multimedia, 3394-3402, 2022",
+      "year": 2022,
+      "citations": 93,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:roLk4NBRz8UC"
+    },
+    {
+      "scholar_rank": 4,
+      "title": "Thermal-inertial SLAM for the environments with challenging illumination",
+      "authors": "J Jiang, X Chen, W Dai, Z Gao, Y Zhang",
+      "venue": "IEEE Robotics and Automation Letters 7 (4), 8767-8774, 2022",
+      "year": 2022,
+      "citations": 63,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+      "scholar_rank": 5,
+      "title": "A multi-spectral dataset for evaluating motion estimation systems",
+      "authors": "W Dai, Y Zhang, S Chen, D Sun, D Kong",
+      "venue": "2021 IEEE International Conference on Robotics and Automation (ICRA), 5560-5566, 2021",
+      "year": 2021,
+      "citations": 33,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+      "scholar_rank": 6,
+      "title": "Direct near-infrared-depth visual SLAM with active lighting",
+      "authors": "D Kong, Y Zhang, W Dai",
+      "venue": "IEEE robotics and Automation Letters 6 (4), 7057-7064, 2021",
+      "year": 2021,
+      "citations": 30,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+      "scholar_rank": 7,
+      "title": "LiDAR intensity completion: Fully exploiting the message from LiDAR sensors",
+      "authors": "W Dai, S Chen, Z Huang, Y Xu, D Kong",
+      "venue": "Sensors 22 (19), 7533, 2022",
+      "year": 2022,
+      "citations": 23,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+      "scholar_rank": 8,
+      "title": "Thermal-depth odometry in challenging illumination conditions",
+      "authors": "X Chen, W Dai, J Jiang, B He, Y Zhang",
+      "venue": "IEEE Robotics and Automation Letters 8 (7), 3988-3995, 2023",
+      "year": 2023,
+      "citations": 19,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:8k81kl-MbHgC"
+    },
+    {
+      "scholar_rank": 9,
+      "title": "Multi-spectral visual odometry without explicit stereo matching",
+      "authors": "W Dai, Y Zhang, D Sun, N Hovakimyan, P Li",
+      "venue": "2019 International Conference on 3D Vision (3DV), 443-452, 2019",
+      "year": 2019,
+      "citations": 19,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+      "scholar_rank": 10,
+      "title": "Adaptive positional encoding for bundle-adjusting neural radiance fields",
+      "authors": "Z Gao, W Dai, Y Zhang",
+      "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2023",
+      "year": 2023,
+      "citations": 15,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:3fE2CSJIrl8C"
+    },
+    {
+      "scholar_rank": 11,
+      "title": "SLC-SLAM: Semantic-Guided Loop Closure Using Shared Latent Code for NeRF SLAM",
+      "authors": "Y Ming, D Ma, W Dai, H Yang, R Fan, G Zhang, W Kong",
+      "venue": "IEEE Robotics and Automation Letters, 2025",
+      "year": 2025,
+      "citations": 13,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:aqlVkmm33-oC"
+    },
+    {
+      "scholar_rank": 12,
+      "title": "RGB‐D SLAM with moving object tracking in dynamic environments",
+      "authors": "W Dai, Y Zhang, Y Zheng, D Sun, P Li",
+      "venue": "IET Cyber‐Systems and Robotics 3 (4), 281-291, 2021",
+      "year": 2021,
+      "citations": 13,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:W7OEmFMy1HYC"
+    },
+    {
+      "scholar_rank": 13,
+      "title": "Control design for an aerial manipulator for pick-and-place tasks",
+      "authors": "D Sun, N Wan, W Dai, Y Zhang, N Hovakimyan",
+      "venue": "AIAA Scitech 2019 forum, 1291, 2019",
+      "year": 2019,
+      "citations": 11,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "scholar_rank": 14,
+      "title": "Viper: Visual incremental place recognition with adaptive mining and continual learning",
+      "authors": "Y Ming, M Xu, X Yang, W Ye, W Wang, Y Peng, W Dai, W Kong",
+      "venue": "IEEE Robotics and Automation Letters 10 (3), 3038-3045, 2025",
+      "year": 2025,
+      "citations": 10,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:M3ejUd6NZC8C"
+    },
+    {
+      "scholar_rank": 15,
+      "title": "Error analysis-based map compression for efficient 3-D lidar localization",
+      "authors": "Y Liu, J Tao, B He, Y Zhang, W Dai",
+      "venue": "IEEE Transactions on Industrial Electronics 70 (10), 10323-10332, 2022",
+      "year": 2022,
+      "citations": 10,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:Se3iqnhoufwC"
+    },
+    {
+      "scholar_rank": 16,
+      "title": "AEGIS-Net: Attention-guided multi-level feature aggregation for indoor place recognition",
+      "authors": "Y Ming, J Ma, X Yang, W Dai, Y Peng, W Kong",
+      "venue": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+      "year": 2024,
+      "citations": 9,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:kNdYIx-mwKoC"
+    },
+    {
+      "scholar_rank": 18,
+      "title": "Continuous-time LiDAR-inertial-vehicle odometry method with lateral acceleration constraint",
+      "authors": "B He, W Dai, Z Wan, H Zhang, Y Zhang",
+      "venue": "2023 IEEE International Conference on Robotics and Automation (ICRA), 3997-4003, 2023",
+      "year": 2023,
+      "citations": 9,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:MXK_kJrjxJIC"
+    },
+    {
+      "scholar_rank": 19,
+      "title": "GPS‐Denied LiDAR‐Based SLAM—A Survey",
+      "authors": "H Jiang, Y Cheng, W Dai, W Wan, Q Liu, F Wang",
+      "venue": "IET Cyber‐Systems and Robotics 7 (1), e70031, 2025",
+      "year": 2025,
+      "citations": 8,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:qUcmZB5y_30C"
+    },
+    {
+      "scholar_rank": 21,
+      "title": "Multi-Modal Synergistic Implicit Image Enhancement for Efficient Optical Flow Estimation",
+      "authors": "W Dai, H Wu, X Weng, Y Zheng, Y Ming, W Kong",
+      "venue": "Proceedings of the Computer Vision and Pattern Recognition Conference, 2173-2182, 2025",
+      "year": 2025,
+      "citations": 6,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:QIV2ME_5wuYC"
+    },
+    {
+      "scholar_rank": 22,
+      "title": "Feature regions segmentation based RGB-D visual odometry in dynamic environment",
+      "authors": "Y Zhang, W Dai, Z Peng, P Li, Z Fang",
+      "venue": "IECON 2018-44th Annual Conference of the IEEE Industrial Electronics Society …, 2018",
+      "year": 2018,
+      "citations": 6,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+      "scholar_rank": 24,
+      "title": "Brain-Machine Cross-Modal Alignment via Sample Relational Learning for Visual Classification",
+      "authors": "D Liu, W Dai, H Liu, H Yi, W Kong",
+      "venue": "ACM Transactions on Multimedia Computing, Communications and Applications 21 …, 2025",
+      "year": 2025,
+      "citations": 4,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:mVmsd5A6BfQC"
+    },
+    {
+      "scholar_rank": 25,
+      "title": "Implicit guidance for enhancing low-light optical flow estimation via channel attention networks: W. Dai et al.",
+      "authors": "W Dai, H Wu, X Weng, W Kong",
+      "venue": "The Visual Computer 41 (10), 7855-7865, 2025",
+      "year": 2025,
+      "citations": 3,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:qxL8FJ1GzNcC"
+    },
+    {
+      "scholar_rank": 26,
+      "title": "Visual Simultaneous Localization and Mapping for Highly Dynamic Environments",
+      "authors": "Y Zheng, W Dai, Y Zhang, W Guan, C Liu",
+      "venue": "IET Cyber‐Systems and Robotics 7 (1), e70014, 2025",
+      "year": 2025,
+      "citations": 2,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:9ZlFYXVOiuMC"
+    },
+    {
+      "scholar_rank": 27,
+      "title": "Neural radiance fields with hash-low-rank decomposition",
+      "authors": "J Wang, W Dai, K Ma, W Kong",
+      "venue": "Applied Sciences 14 (23), 11277, 2024",
+      "year": 2024,
+      "citations": 2,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:_kc_bZDykSQC"
+    },
+    {
+      "scholar_rank": 29,
+      "title": "Brain-Machine Enhanced Intelligence for Semi-Supervised Facial Emotion Recognition",
+      "authors": "D Liu, W Dai, H Yi, H Liu, J Cao, Q Zhao, F Babiloni, W Kong",
+      "venue": "IEEE Transactions on Affective Computing, 2025",
+      "year": 2025,
+      "citations": 1,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:IWHjjKOFINEC"
+    },
+    {
+      "scholar_rank": 30,
+      "title": "Brain-Eye Collaborative Camouflaged Target Detection",
+      "authors": "L Ma, W Dai, Z Yang, C Hong, J Han, J Cao, W Kong",
+      "venue": "International Journal of Human–Computer Interaction, 1-14, 2025",
+      "year": 2025,
+      "citations": 1,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:7PzlFSSx8tAC"
+    },
+    {
+      "scholar_rank": 31,
+      "title": "MPFDAN: Multi-Perspective Feature Dynamic Adaptation Network for Domain Adaptive Object Detection",
+      "authors": "H Yang, K Liu, W Weng, W Dai, A Cichocki, W Kong",
+      "venue": "2025 International Joint Conference on Neural Networks (IJCNN), 1-8, 2025",
+      "year": 2025,
+      "citations": 1,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:hFOr9nPyWt4C"
+    },
+    {
+      "scholar_rank": 32,
+      "title": "An accurate and efficient monocular mixed match SLAM",
+      "authors": "D Weichen, Z Yu, L Ping",
+      "venue": "2017 36th Chinese Control Conference (CCC), 6875-6880, 2017",
+      "year": 2017,
+      "citations": 1,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+      "scholar_rank": 34,
+      "title": "Dense structure distillation towards recurrent scene flow estimation for sparse point cloud",
+      "authors": "W Dai, Z Meng, X Weng, W Su, WZ Kong",
+      "venue": "The Computer Journal 69 (6), 945-953, 2026",
+      "year": 2026,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:HDshCWvjkbEC"
+    },
+    {
+      "scholar_rank": 35,
+      "title": "Voting-Based Symmetry Order Estimation for Rotational Symmetric Objects",
+      "authors": "R Yu, W Dai, Y Du, H Zhang",
+      "venue": "2026 38th Chinese Control and Decision Conference (CCDC), 727-732, 2026",
+      "year": 2026,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:4JMBOYKVnBMC"
+    },
+    {
+      "scholar_rank": 36,
+      "title": "Bridging Static Images and Dynamic Brain Signal for Visual Decoding",
+      "authors": "D Liu, W Dai, H Liu, H Yi, W Kong",
+      "venue": "IEEE Transactions on Consumer Electronics, 2026",
+      "year": 2026,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:R3hNpaxXUhUC"
+    },
+    {
+      "scholar_rank": 37,
+      "title": "ViT-RatSLAM: Practical Integration of Vision Transformer-based Visual Place Recognition into Bio-inspired SLAM for Robust Topological Mapping",
+      "authors": "C Liang, Y Zhao, R Yu, K Ma, W Dai",
+      "venue": "2026 12th International Conference on Electrical Engineering, Control and …, 2026",
+      "year": 2026,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:_Qo2XoVZTnwC"
+    },
+    {
+      "scholar_rank": 38,
+      "title": "Brain-Machine Cross-Modal Enhancement Method with Deep Supervision for Visual Classification",
+      "authors": "D Liu, W Dai, H Liu, H Yi, X Jin, W Kong",
+      "venue": "IEEE Transactions on Cognitive and Developmental Systems, 2026",
+      "year": 2026,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:TQgYirikUcIC"
+    },
+    {
+      "scholar_rank": 39,
+      "title": "Closed-Form Convolution for physically-accurate defocus in Gaussian Splatting",
+      "authors": "W Dai, K Ma, W Kong",
+      "venue": "ACM Transactions on Graphics, 2026",
+      "year": 2026,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:j3f4tGmQtD8C"
+    },
+    {
+      "scholar_rank": 40,
+      "title": "Linguistic Priors for Visual Decoupling: Towards Symmetric Vision-Brain Alignment",
+      "authors": "D Liu, W Dai, J Qian, H Liu, H Yi, W Kong",
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2026",
+      "year": 2026,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+      "scholar_rank": 43,
+      "title": "Robust SLAM Under Rapid Camera Motion via Semi-Dense Detector-Free Matching",
+      "authors": "J Song, W Su, W Dai, J Zhang, B Wang",
+      "venue": "Chinese Intelligent Automation Conference, 482-492, 2025",
+      "year": 2025,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:-f6ydRqryjwC"
+    },
+    {
+      "scholar_rank": 45,
+      "title": "Bidirectional joint estimation of optical flow and scene flow with Gaussian-guided attention",
+      "authors": "W Dai, X Weng, D Sun, Y Ming, W Kong",
+      "venue": "Signal, Image and Video Processing 19 (6), 443, 2025",
+      "year": 2025,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
+      "scholar_rank": 46,
+      "title": "Drift‐free localisation using prior cross‐source map for indoor low‐light environments",
+      "authors": "J Tao, W Dai, D Kong, J Wan, B He, Y Zhang",
+      "venue": "IET Cyber‐Systems and Robotics 5 (1), e12081, 2023",
+      "year": 2023,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:0EnyYjriUFMC"
+    },
+    {
+      "scholar_rank": 47,
+      "title": "Multi-source Domain Adaptation Based on Data Selector with Soft Actor-Critic",
+      "authors": "Q Cui, X Jin, W Dai, W Kong",
+      "venue": "International Workshop on Human Brain and Artificial Intelligence, 99-109, 2022",
+      "year": 2022,
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CAAqkAIAAAAJ&citation_for_view=CAAqkAIAAAAJ:UebtZRa9Y70C"
+    }
+  ],
+  "scholar_entry_count": 47,
+  "publication_policy": "Only formally published journal and conference papers are counted; preprints are excluded."
+}
