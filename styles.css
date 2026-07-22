@@ -344,8 +344,8 @@ select {
 .news-list li {
   padding: 11px 0;
   display: grid;
-  grid-template-columns: 66px minmax(0, 1fr);
-  gap: 14px;
+  grid-template-columns: 54px minmax(0, 1fr);
+  gap: 16px;
   border-bottom: 1px solid var(--line);
 }
 
@@ -354,11 +354,13 @@ select {
 }
 
 .news-list time {
-  color: var(--blue);
+  padding-top: 2px;
+  color: var(--muted);
   font-family: var(--sans);
   font-size: 11px;
-  font-weight: 750;
-  letter-spacing: 0.01em;
+  font-variant-numeric: tabular-nums;
+  font-weight: 550;
+  letter-spacing: 0.015em;
   white-space: nowrap;
 }
 
@@ -874,8 +876,8 @@ select {
   }
 
   .news-list li {
-    grid-template-columns: 62px minmax(0, 1fr);
-    gap: 9px;
+    grid-template-columns: 54px minmax(0, 1fr);
+    gap: 10px;
   }
 
   .research-grid {
