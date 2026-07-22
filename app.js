@@ -60,14 +60,25 @@ function renderPublications() {
 
           const title = document.createElement("h4");
           const link = document.createElement("a");
-          link.href = publication.scholar_url;
+          link.href = publication.paper_url;
           link.textContent = publication.title;
           title.append(link);
+
+          const links = document.createElement("div");
+          links.className = "publication-links";
+          const paperLink = document.createElement("a");
+          paperLink.href = publication.paper_url;
+          paperLink.textContent = "Paper";
+          const scholarLink = document.createElement("a");
+          scholarLink.href = publication.scholar_url;
+          scholarLink.textContent = "Scholar";
+          links.append(paperLink, scholarLink);
 
           item.append(
             title,
             createTextElement("p", "authors", publication.authors),
-            createTextElement("p", "venue", publication.venue)
+            createTextElement("p", "venue", publication.venue),
+            links
           );
           items.append(item);
         });
@@ -88,6 +99,9 @@ async function loadPublications() {
     publications = data.publications.filter(
       (publication) => !PREPRINT_VENUE_PATTERN.test(publication.venue)
     );
+    if (publications.some((publication) => !publication.paper_url)) {
+      throw new Error("A formal publication is missing its verified Paper link.");
+    }
 
     if (publicationCount) publicationCount.textContent = String(publications.length);
     if (publicationEntryCount) publicationEntryCount.textContent = String(publications.length);

@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="styles.css" />
     <script src="app.js" defer></script>
   </head>
-  <body>
+  <body id="about">
     <a class="skip-link" href="#content">Skip to content</a>
 
     <header class="topbar">
@@ -73,7 +73,7 @@
       </aside>
 
       <div class="main-column">
-        <section class="about" id="about">
+        <section class="about">
           <p class="eyebrow">Computer vision · Robotics · Brain-inspired intelligence</p>
           <p class="lead">
             My research develops spatial intelligence for machines, with a focus on 3D vision,
@@ -98,23 +98,32 @@
             <span>Selected updates</span>
           </div>
           <ol class="news-list">
-            <li>
-              <time datetime="2026">2026</time>
+            <li data-news-type="publication">
+              <time datetime="2026-07">Jul 2026</time>
+              <p>
+                <strong>ACM TOG 2026:</strong> “Closed-Form Convolution for Physically-Accurate
+                Defocus in Gaussian Splatting” was published in ACM Transactions on Graphics.
+                <a href="https://doi.org/10.1145/3821567">Paper</a>
+              </p>
+            </li>
+            <li data-news-type="publication">
+              <time datetime="2026-06">Jun 2026</time>
               <p>
                 <strong>CVPR 2026:</strong> “Linguistic Priors for Visual Decoupling: Towards
                 Symmetric Vision-Brain Alignment” was published at CVPR.
                 <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Linguistic_Priors_for_Visual_Decoupling_Towards_Symmetric_Vision-Brain_Alignment_CVPR_2026_paper.html">Paper</a>
               </p>
             </li>
-            <li>
-              <time datetime="2026">2026</time>
+            <li data-news-type="project">
+              <time datetime="2026-05">May 2026</time>
               <p>
-                <strong>ACM TOG 2026:</strong> “Closed-Form Convolution for Physically-Accurate
-                Defocus in Gaussian Splatting” was published in ACM Transactions on Graphics.
+                <strong>Open-source release:</strong> We released a low-cost, portable handheld
+                3D reconstruction system with build documentation and printable CAD models.
+                <a href="https://github.com/HDU-ASL/Handheld_3D_Reconstruction_Device">Project</a>
               </p>
             </li>
-            <li>
-              <time datetime="2025">2025</time>
+            <li data-news-type="publication">
+              <time datetime="2025-06">Jun 2025</time>
               <p>
                 <strong>CVPR 2025:</strong> Our multimodal implicit enhancement method for
                 efficient optical flow estimation was published at CVPR.
@@ -190,6 +199,7 @@
                 <h3>Closed-Form Convolution for Physically-Accurate Defocus in Gaussian Splatting</h3>
                 <p><strong>W. Dai</strong>, K. Ma, W. Kong</p>
                 <div class="publication-links">
+                  <a href="https://doi.org/10.1145/3821567">Paper</a>
                   <a href="https://scholar.google.com/citations?user=CAAqkAIAAAAJ&amp;hl=en">Scholar</a>
                 </div>
               </div>
@@ -224,6 +234,7 @@
                 <h3>Brain-Machine Coupled Learning Method for Facial Emotion Recognition</h3>
                 <p>D. Liu, <strong>W. Dai</strong>, H. Zhang, X. Jin, J. Cao, W. Kong</p>
                 <div class="publication-links">
+                  <a href="https://doi.org/10.1109/tpami.2023.3257846">Paper</a>
                   <a href="https://scholar.google.com/citations?user=CAAqkAIAAAAJ&amp;hl=en">Scholar</a>
                 </div>
               </div>
@@ -235,6 +246,7 @@
                 <h3>Thermal-Inertial SLAM for the Environments with Challenging Illumination</h3>
                 <p>J. Jiang, X. Chen, <strong>W. Dai</strong>, Z. Gao, Y. Zhang</p>
                 <div class="publication-links">
+                  <a href="https://doi.org/10.1109/lra.2022.3185385">Paper</a>
                   <a href="https://scholar.google.com/citations?user=CAAqkAIAAAAJ&amp;hl=en">Scholar</a>
                 </div>
               </div>
@@ -246,6 +258,7 @@
                 <h3>RGB-D SLAM in Dynamic Environments Using Point Correlations</h3>
                 <p><strong>W. Dai</strong>, Y. Zhang, P. Li, Z. Fang, S. Scherer</p>
                 <div class="publication-links">
+                  <a href="https://doi.org/10.1109/tpami.2020.3010942">Paper</a>
                   <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=CAAqkAIAAAAJ&amp;citation_for_view=CAAqkAIAAAAJ:2osOgNQ5qMEC">Scholar</a>
                 </div>
               </div>
