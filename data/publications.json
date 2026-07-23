@@ -1,5 +1,5 @@
 {
-  "source": "Google Scholar public author profile",
+  "source": "Google Scholar public author profile and profile owner",
   "source_url": "https://scholar.google.com/citations?user=CAAqkAIAAAAJ&hl=en",
   "profile_id": "CAAqkAIAAAAJ",
   "profile_name": "Weichen Dai",
@@ -7,12 +7,13 @@
   "research_interests": [
     "3D Vision",
     "SLAM",
+    "Embodied intelligence",
     "Brain-inspired intelligence"
   ],
   "fetched_on": "2026-07-22",
   "citation_total_at_fetch": 856,
   "publication_count": 39,
-  "notes": "Per the profile owner's instruction, Google Scholar is the authoritative master source for titles, authors, venues and years. Citation counts are a time-sensitive snapshot.",
+  "notes": "Per the profile owner's instruction, Google Scholar is the authoritative master source for titles, authors, venues and years. Research interests also reflect the profile owner's current public positioning. Citation counts are a time-sensitive snapshot.",
   "publications": [
     {
       "scholar_rank": 1,
